@@ -2,7 +2,7 @@
   <img src="/_art/oa2.jpg" width="300px" />
 </p>
 
-# Protect Functions and Classes from Crashes for Prod
+# Protect Functions and Classes from Crashes in Prod
 
 [![npm version](https://badge.fury.io/js/over-armour.svg)](https://badge.fury.io/js/over-armour)
 
@@ -10,7 +10,7 @@
 
 Quickly protect an entire class from causing an exception with `fortify` method
 
-Example:
+_Example Protection:_
 ```js
 const iCanError = new CrashyApi()
 const protector = new OverArmour()
