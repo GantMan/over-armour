@@ -1,0 +1,7 @@
+_art/
+__tests__/
+src/
+.node-version
+coverage/
+yarn.lock
+*.log

@@ -1,0 +1,11 @@
+# Common Cruft
+.DS_Store
+npm-debug.log
+yarn-error.log
+coverage
+.nyc_output
+node_modules/
+.vscode/*
+!.vscode/cSpell.json
+.idea
+dist/
