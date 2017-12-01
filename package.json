@@ -1,0 +1,10 @@
+{
+  "name": "over-armour",
+  "version": "0.1.0",
+  "description": "Protect functions and classes from crashes",
+  "main": "index.js",
+  "repository": "git@github.com:infinitered/over-armour.git",
+  "author": "Gant <GantMan@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
